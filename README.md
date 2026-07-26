@@ -92,3 +92,8 @@ provisions             - Trivy image scan
                       - Trivy gate enforced
                       - Semgrep scan enforced
 ```
+
+
+## Tools & Tech
+
+Argo CD, Trivy, Semgrep, Helm, Kind, Docker, GitHub Actions, Terraform, Kubernetes, Nginx
