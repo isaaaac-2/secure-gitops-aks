@@ -1,4 +1,4 @@
-#Secure GitOps AKS Pipeline
+# Secure GitOps AKS Pipeline
 
 A security-first GitOps pipeline demonstrating automated deployment with Argo CD, pre-deploy vulnerability scanning (Trivy), SAST misconfiguration detection (Semgrep), and container hardening on a local Kubernetes cluster.
 
