@@ -1,0 +1,8 @@
+rules:
+  - id: kubernetes-security-context-missing
+    pattern: |
+      containers:
+        - ...
+    message: "Container missing securityContext"
+    severity: WARNING
+    languages: [yaml]
